@@ -1,0 +1,18 @@
+Mediawiki UIOptions Theme Readme
+
+This is a Mediawiki theme based on monobook theme that implements the Fluid Infusion UIOptions component.
+UIOptions allows users to dynamically modify text sizes, colour, fonts, colour schemes etc. to
+make the UI easier to see. For more about Fluid Infusion's UIOptions visit the Web site at:
+
+http://wiki.fluidproject.org/display/docs/UI+Options+-+Default
+
+Installation
+1. Download the theme and unpack it into the Mediawiki skins directory to create a Floe2 skin directory
+2. Within the Floe2 theme directory copy the following files into the skins root directory
+
+cp moveme/Floe2.php ../
+cp moveme/Floe2.deps.php ../
+
+3. Login to Mediawiki and in your Preferences choose Appearance, then select Floe2 as your theme.
+
+
